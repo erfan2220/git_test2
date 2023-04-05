@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.navbar-show
+{
+    display: flex;
+}
+
+.left ,.right
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%
+}
+.middle
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.pages-link
+{
+    list-style-type: none;
+    padding: 15px;
+}
+.submenu-btn
+{
+    background: black;
+    color: white;
+}
+.nav-link
+{
+
+}

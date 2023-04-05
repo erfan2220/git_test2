@@ -1,0 +1,14 @@
+.sidebar-wrapper2
+{
+    position: relative;
+    background-color: white;
+    left: 50px;
+    width: 70%;
+    height:50%;
+}
+.sidebar-wrapper
+{
+    position: absolute;
+    background-color: white;
+    display: none;
+}
